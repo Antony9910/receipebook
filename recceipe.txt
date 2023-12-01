@@ -2,3 +2,4 @@ rerecipe:
 biriyani receipe:
      onion:1kg
      chicken:1kg
+     rice:1kg
